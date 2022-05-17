@@ -23,4 +23,4 @@ function Contador(){
     )
 }
 
-export default Pagina
+export default Home
